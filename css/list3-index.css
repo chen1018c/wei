@@ -1,0 +1,69 @@
+@import url('base.css');
+/*头部开始*/
+.top{
+	width: 100%;
+	height: 1.5rem;
+	background:#ffffff;
+	display: flex;
+}
+.pt{
+
+   width: 1.58rem;
+   height: 0.76rem;
+  /*background:yellow;*/
+  margin: 0 auto;
+  margin-left: 2.6rem;
+  margin-top: 0.3rem;
+}
+.pt img{
+	display:block;
+	width: 100%;
+	height: 100%;
+}
+.xllb{
+	width: 0.8rem;
+	height: 0.7rem;
+	/*background:green;*/
+	margin-right: 0.48rem;
+	 margin-top: 0.3rem;
+}
+.xllb img{
+	display:block;
+	width: 100%;
+	height: 100%;
+}
+/*头部结束*/
+
+footer{
+	width: 100%;
+	height: 0.95rem;
+	 background: #ffffff; 
+	padding: 0.15rem;
+	display: flex;
+	justify-content: space-around;
+	box-sizing:border-box;
+	position: fixed;
+	left:0;
+	bottom:0;
+}
+
+.foot-name{
+   width: 0.5rem;
+   height: 0.22rem;
+   font-size: 0.2rem;
+   color: #666;
+   text-align: center;
+}
+
+/**/
+.logo{
+	width: 0.46rem;
+	height: 0.44rem;
+	margin: 0 auto;
+}
+.logo img{
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+/* 底部结束 */
